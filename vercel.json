@@ -10,7 +10,7 @@
     }
   ],
   "routes": [
-    { "source": "/api", "dest": "index.js" },
-    { "source": "/create-payment-intent", "dest": "index.js" }
-]
+    { "src": "/api", "dest": "index.js" },
+    { "src": "/create-payment-intent", "dest": "index.js" }
+  ]
 }
