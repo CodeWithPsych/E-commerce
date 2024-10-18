@@ -16,5 +16,3 @@ export function cookiesExtracter(req, res) {
   }
   return token;
 }
-
-// vercel
